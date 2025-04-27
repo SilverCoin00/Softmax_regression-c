@@ -6,11 +6,10 @@
 #include <string.h>
 #include <math.h>
 
-#include "D:\Data\code_doc\AI_model_building\Pandas_&_Numpy.c"
-#include "D:\Data\code_doc\AI_model_building\Sklearn.c"
-//#include "D:\Data\code_doc\AI_model_building\Dataset.c"
-#include "D:\Data\code_doc\AI_model_building\Dataset_2.c"
-#include "D:\Data\code_doc\AI_model_building\Softmax_regression\Weights.c"
-#include "D:\Data\code_doc\AI_model_building\Softmax_regression\Softmax_regression.c"
+#include "Pandas_&_Numpy.c"
+#include "Sklearn.c"
+#include "Dataset_2.c"
+#include "Weights.c"
+#include "Softmax_regression.c"
 
 #endif
