@@ -1,4 +1,4 @@
-#include "D:\Data\code_doc\AI_model_building\Softmax_regression\Core.h"
+#include "Core.h"
 
 int main() {
     char file[] = "D:\\Data\\archive1\\flag.csv";
